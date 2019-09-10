@@ -1,7 +1,7 @@
 # Privacy-Preserving-Bandits (P2B)
-Codes and Data accompanying our paper "Privacy-Preserving Bandits".
+Codes and Data accompanying our paper "Privacy-Preserving Bandits"
 
-To reproduce the results, you just need to run codes in the `experiments` folder.
+To reproduce the results of the paper, you just need to run codes in the `experiments` folder.
 
 ## Info:
 You may need to install these libraries:
