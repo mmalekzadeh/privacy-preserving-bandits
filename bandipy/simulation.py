@@ -43,11 +43,12 @@ criteodata = datasets.CriteoDatasets()
 ## For the sake of reproducibility
 random.seed(0)
 np.random.seed(0)
-tf.set_random_seed(0)
+# tf.set_random_seed(0)
+# session_conf = tf.ConfigProto(intra_op_parallelism_threads=1, inter_op_parallelism_threads=1)
+# sess = tf.Session(graph=tf.get_default_graph(), config=session_conf)
+# K.set_session(sess)
+tf.random.set_seed(0)
 os.environ['PYTHONHASHSEED']=str(0)
-session_conf = tf.ConfigProto(intra_op_parallelism_threads=1, inter_op_parallelism_threads=1)
-sess = tf.Session(graph=tf.get_default_graph(), config=session_conf)
-K.set_session(sess)
 
 class Simulation():
     def __init__(self, data_type, bandit_algorithm, privacy_model, sim_sig):
