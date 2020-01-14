@@ -7,7 +7,9 @@ Mohammad Malekzadeh, Dimitrios Athanasakis, Hamed Haddadi, and Benjamin Livshits
 Accepted for the Third Conference on Machine Learning and Systems (MLSys 2020), March, 2020.
 ```
 ## Note:
-To reproduce the results of the paper, you just need to run codes in the `experiments` folder.
+* To reproduce the results of the paper, you just need to run codes in the `experiments` folder.
+* Multi-Lable datasets will be automatically downloaded for the firs time.
+* For criteo dataset, in the first time, use the script `experiments/Criteo/criteo_dataset/create_datasets.ipynb`
 
 ### All you need to begin with:
 #### 1: Run `1_build_an_encoder.ipynb`.
@@ -16,7 +18,7 @@ To reproduce the results of the paper, you just need to run codes in the `experi
 
 
 ### Info:
-If you don't follow the above steps, you may need to install these libraries:
+If you don't run `1_build_an_encoder.ipynb`, you may need to install these libraries:
 ```
 %pip install iteround
 %pip install pairing 
