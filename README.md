@@ -18,7 +18,9 @@ Accepted for the Third Conference on Machine Learning and Systems (MLSys 2020), 
 
 
 ### Info:
-If you don't run `1_build_an_encoder.ipynb`, you may need to install these libraries:
+If you don't run `1_build_an_encoder.ipynb`, you may need to install packages that are listed in the `requirements.txt` file.
+
+Specifically, these libraries:
 ```
 %pip install iteround
 %pip install pairing 
