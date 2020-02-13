@@ -19,6 +19,9 @@ Accepted for the Third Conference on Machine Learning and Systems (MLSys 2020), 
 
 ### Info:
 If you don't run `1_build_an_encoder.ipynb`, you may need to install packages that are listed in the `requirements.txt` file.
+ ```
+ % pip install -r requirements.txt 
+ ```
 
 Specifically, these libraries:
 ```
