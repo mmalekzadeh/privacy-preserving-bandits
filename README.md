@@ -15,6 +15,11 @@ Accepted for the Third Conference on Machine Learning and Systems (MLSys 2020), 
 #### 1: Run `1_build_an_encoder.ipynb`.
 #### 2: Run `2_a_synthetic_exp.ipynb`.
 
+### For Criteo dataset:
+In the directory `experiments/Criteo/`, we have already run this file for the experiment we have reported in Figure 7 and provided dataset by processing `nrows=1000000000`, that uses 1 billion rows of the original dataset.
+
+I If one desires to make a dataset of another `nrows`, for the first time, the script [`create_datasets.ipynb`](https://github.com/mmalekzadeh/privacy-preserving-bandits/tree/master/experiments/Criteo/criteo_dataset) should be used.
+You should first set this parameter (number of rows) in the  `create_datasets.ipynb`, build the dataset, and then run the Criteo experiment. Please see [`create_datasets.ipynb`](https://github.com/mmalekzadeh/privacy-preserving-bandits/tree/master/experiments/Criteo/criteo_dataset) for more dtail.
 
 
 ### Info:
