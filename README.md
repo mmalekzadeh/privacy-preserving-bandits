@@ -4,8 +4,11 @@ Codes and Data accompanying our paper "[Privacy-Preserving Bandits](https://arxi
 ```
 Mohammad Malekzadeh, Dimitrios Athanasakis, Hamed Haddadi, and Benjamin Livshits,
 "Privacy-Preserving Bandits", 
-Accepted for the Third Conference on Machine Learning and Systems (MLSys 2020), March, 2020.
+Proceedings of the 3rd Conference on Machine Learning and Systems (MLSys 2020), Austin,  TX, USA, 2020.
 ```
+
+Public DOI: [10.5281/zenodo.3685952](https://doi.org/10.5281/zenodo.3685952)
+
 ## Note:
 * To reproduce the results of the paper, you just need to run codes in the `experiments` folder.
 * Multi-Lable datasets will be automatically downloaded for the firs time.
