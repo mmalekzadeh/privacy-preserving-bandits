@@ -1,6 +1,5 @@
 # Privacy-Preserving-Bandits (P2B)
-Codes and Data accompanying our paper "[Privacy-Preserving Bandits](https://arxiv.org/pdf/1909.04421.pdf
-)"
+Codes and Data accompanying our paper "[Privacy-Preserving Bandits](https://proceedings.mlsys.org/static/paper_files/mlsys/2020/136-Paper.pdf)"
 ```
 Mohammad Malekzadeh, Dimitrios Athanasakis, Hamed Haddadi, and Benjamin Livshits,
 "Privacy-Preserving Bandits", 
