@@ -8,7 +8,7 @@ Proceedings of the 3rd Conference on Machine Learning and Systems (MLSys 2020), 
 
 Public DOI: [10.5281/zenodo.3685952](https://doi.org/10.5281/zenodo.3685952)
 
-[P2B](https://raw.githubusercontent.com/mmalekzadeh/privacy-preserving-bandits/master/p2b_arch.jpg)
+![](https://raw.githubusercontent.com/mmalekzadeh/privacy-preserving-bandits/master/p2b_arch.jpg)
 
 ## Note:
 * To reproduce the results of the paper, you just need to run codes in the `experiments` folder.
