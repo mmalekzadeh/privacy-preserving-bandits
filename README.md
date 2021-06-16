@@ -1,7 +1,7 @@
 # Privacy-Preserving-Bandits (P2B)
 Codes and Data accompanying our paper "[Privacy-Preserving Bandits](https://proceedings.mlsys.org/paper/2020/hash/42a0e188f5033bc65bf8d78622277c4e-Abstract.html)"
 ```
-@inproceedings{malekzadeh2019privacy,
+@inproceedings{malekzadeh2020privacy,
 	title        = {Privacy-Preserving Bandits},
 	author       = {Malekzadeh, Mohammad and Athanasakis, Dimitrios and Haddadi, Hamed and Livshits, Benjamin},
 	year         = {2020},
