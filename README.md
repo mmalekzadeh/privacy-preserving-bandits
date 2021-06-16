@@ -1,9 +1,12 @@
 # Privacy-Preserving-Bandits (P2B)
-Codes and Data accompanying our paper "[Privacy-Preserving Bandits](https://proceedings.mlsys.org/static/paper_files/mlsys/2020/136-Paper.pdf)"
+Codes and Data accompanying our paper "[Privacy-Preserving Bandits](https://proceedings.mlsys.org/paper/2020/hash/42a0e188f5033bc65bf8d78622277c4e-Abstract.html)"
 ```
-Mohammad Malekzadeh, Dimitrios Athanasakis, Hamed Haddadi, and Benjamin Livshits,
-"Privacy-Preserving Bandits", 
-Proceedings of the 3rd Conference on Machine Learning and Systems (MLSys 2020), Austin,  TX, USA, 2020.
+@inproceedings{malekzadeh2019privacy,
+	title        = {Privacy-Preserving Bandits},
+	author       = {Malekzadeh, Mohammad and Athanasakis, Dimitrios and Haddadi, Hamed and Livshits, Benjamin},
+	year         = {2020},
+	booktitle    = {the Third Conference on Machine Learning and Systems (MLSys)}
+}
 ```
 
 Public DOI: [10.5281/zenodo.3685952](https://doi.org/10.5281/zenodo.3685952)
