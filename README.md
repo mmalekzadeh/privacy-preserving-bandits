@@ -4,7 +4,7 @@ Codes and Data accompanying our paper "[Privacy-Preserving Bandits](https://proc
 @inproceedings{malekzadeh2020privacy,
 	title        = {Privacy-Preserving Bandits},
 	author       = {Malekzadeh, Mohammad and Athanasakis, Dimitrios and Haddadi, Hamed and Livshits, Benjamin},
-	booktitle    = {Proceedings of Machine Learning and Systems (MLSys '20)}
+	booktitle    = {Proceedings of Machine Learning and Systems (MLSys '20)},
 	url = {https://proceedings.mlsys.org/paper/2020/file/42a0e188f5033bc65bf8d78622277c4e-Paper.pdf},
 	volume = {2},
 	pages = {350--362},
